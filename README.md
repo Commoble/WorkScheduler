@@ -73,7 +73,7 @@ drivertype=FIREFOX
 * The frontend web app can be served by running `ng serve` from the WorkSchedulerFrontend directory.
 
 ## Contributors
-* Ahmed Sahli
+* Ahmed Al-Sahli
 * Keven Mitchell
 * Jada Forde
 * Joseph Bettendorff
