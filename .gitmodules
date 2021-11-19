@@ -1,0 +1,9 @@
+[submodule "WorkSchedulerServer"]
+	path = WorkSchedulerServer
+	url = https://github.com/Commoble/WorkSchedulerServer.git
+[submodule "WorkSchedulerFrontend"]
+	path = WorkSchedulerFrontend
+	url = https://github.com/Commoble/WorkSchedulerFrontend.git
+[submodule "WorkSchedulerFrontendTests"]
+	path = WorkSchedulerFrontendTests
+	url = https://github.com/Commoble/WorkSchedulerFrontendTests.git
